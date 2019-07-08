@@ -1,3 +1,5 @@
 cinrad_data
 images
 soundings
+.ipynb_checkpoints
+__pycache__
